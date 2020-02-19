@@ -1,4 +1,4 @@
-#codigo datos de empresa
+#-----------------codigo datos de empresa----------------#
 nombre= "Electronic Mech"
 print (nombre)
 print  (type(nombre)) 
