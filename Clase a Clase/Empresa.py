@@ -8,6 +8,6 @@ print (type(year))
 ingresosmensuales= 70000000.00 
 print (ingresosmensuales) 
 print (type(ingresosmensuales))
-gastosmateriales= 20000000.00
-print (gastosmateriales) 
-print (type(gastosmateriales))
+salario = 2000000.00
+print (salario) 
+print (type(salario)) 
