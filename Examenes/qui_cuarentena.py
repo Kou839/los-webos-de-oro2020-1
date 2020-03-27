@@ -50,7 +50,9 @@ print ("la presion más baja en la lista {} es {}"
 .format (pesosPacientesIniciales, min(pesosPacientesIniciales)))
 
 pesosPacientesIniciales.sort(reverse=True)
-print ("lista ordenada de forma decreciente {}".format(pesosPacientesIniciales))
+print ("lista ordenada de forma decreciente {}".format(pesosPacientesIniciales)) 
+
+print ("gracias por usar este prgrama")
 
 
 
